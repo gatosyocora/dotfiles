@@ -1,0 +1,3 @@
+* text=auto
+*.cs diff=utf-8
+*.vb diff=utf-8
